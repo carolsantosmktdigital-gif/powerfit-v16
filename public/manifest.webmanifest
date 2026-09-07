@@ -1,0 +1,14 @@
+{
+  "name": "Power Fit Studio",
+  "short_name": "Power Fit",
+  "description": "Experiência mobile da Power Fit Studio para alunos e recepção.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#24085f",
+  "icons": [
+    {"src":"./powerfit-icon.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./powerfit-logo.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
