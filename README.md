@@ -1,4 +1,4 @@
-# Power Fit Studio • V28
+# Power Fit Studio • V29
 
 Aplicativo mobile-first/PWA para a operação da Power Fit Studio.
 
