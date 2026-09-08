@@ -36,3 +36,13 @@
 .exercise-tabs{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-bottom:12px}.exercise-tabs button{padding:10px 6px;border:1px solid var(--line);border-radius:12px;background:#fff;color:var(--muted);font-size:9px;font-weight:900}.exercise-tabs button.active{background:#eee8fb;border-color:var(--purple);color:var(--purple)}.metric-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:12px}.metric{background:#fff;border:1px solid var(--line);border-radius:14px;padding:11px 8px;text-align:center}.metric>div{color:var(--purple);margin-bottom:5px}.metric svg{width:18px}.metric b,.metric span{display:block}.metric b{font-size:13px}.metric span{font-size:7px;color:var(--muted);margin-top:3px;line-height:1.25}
 
 .slot.unavailable{background:#f1f1f4;border-color:#e1e1e6;color:#9b9da6}.slot.unavailable span{color:#9b9da6}.slot.unavailable b{color:#858894}
+
+/* V24: datas padronizadas e agenda da academia */
+.agenda-dates{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:7px!important;overflow:visible!important}
+.agenda-dates button{min-width:0!important;width:100%!important;padding:9px 3px!important}
+.agenda-dates button b{font-size:10px!important;white-space:nowrap!important}
+.appointment-date{width:auto!important;min-width:92px!important;padding:9px 7px!important}
+.appointment-date b{font-size:11px!important;white-space:nowrap!important}
+.appointment-date small{font-size:7px!important;margin-top:3px}
+.brand-home{padding:0;margin:0;border:0;background:none;color:inherit;display:block}
+.schedule-closed-note{grid-column:1/-1;padding:10px;border-radius:10px;background:#f3f3f6;color:var(--muted);font-size:8px;text-align:center;font-weight:800}
