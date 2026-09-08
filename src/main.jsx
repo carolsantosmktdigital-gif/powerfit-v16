@@ -10,7 +10,7 @@ import {
 import './styles.css';
 
 const TIMES=['06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00'];
-const STORAGE='powerfit-v29-state';
+const STORAGE='powerfit-v31-state';
 const RECEPTION_WHATSAPP='5521999999999';
 const TEACHERS=[
 {id:1,name:'João Martins',active:true,slots:['06:00','07:00','08:00','18:00','19:00']},
